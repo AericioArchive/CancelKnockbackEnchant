@@ -1,0 +1,4 @@
+# CancelKnockbackEnchant Configuration
+
+# disable / enable knockback from working
+disable: true

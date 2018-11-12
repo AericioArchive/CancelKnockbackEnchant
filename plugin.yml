@@ -1,0 +1,7 @@
+name: CancelKnockbackEnchant
+main: Aericio\CancelKnockbackEnchant\CancelKnockbackEnchant
+version: 1.0.0
+api: 3.0.0
+author: Aericio
+description: Disables Knockback KnockbackEnchantment
+website: https://aericio.net/
